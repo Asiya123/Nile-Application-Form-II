@@ -1,0 +1,46 @@
+/* selector{
+	property:value;
+}*/
+body {
+	background-color: white; 
+}
+
+label {
+	padding: 12px 12px 0;
+	display: inline-block;
+}
+
+form {
+	font-size: 130%;
+	font-family: vertena;
+	cursor: pointer;
+
+}
+
+nav {float: center;}
+.logo img{float: right;
+}
+
+p {
+	font-size: 140%;
+}
+
+ul ,li{
+	text-align: center;
+	font-style:block ;
+	color: blue;
+	display: inline-block;
+	padding: 30px;
+	font-size: 50px;
+	box-shadow: 2px;
+}
+
+span {
+	color: black;
+
+}
+
+button {
+	font-size: 110%;
+	font-family: georgia;
+}
